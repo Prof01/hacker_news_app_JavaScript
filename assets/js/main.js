@@ -6,7 +6,7 @@ let firstLoad = 0;
 
 // Get Post Immediately Page Loads
 function getPosts(){
-    fetch('http://hn.algolia.com/api/v1/search?tags=front_page')
+    fetch('https://hn.algolia.com/api/v1/search?tags=front_page')
     .then((res) => res.json())
     .then((data) => {
         hackerNews = data.hits
