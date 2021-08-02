@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.main {
+  font-size: 0.8rem;
+  width: 80%;
+  margin: auto;
+  background-color: #f4f4f4;
+  padding: 0 1rem;
+  border-radius: 5px;
+}
+
+.news {
+  border: solid 0.1rem #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-radius: 5px;
+}
+
+input {
+  padding: 0.5rem 3.5rem 0.5rem 0.5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+h2 {
+  color: coral;
+}
