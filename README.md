@@ -2,6 +2,9 @@
 
 This project is the Vanilla JavaScript version of My Hacker News App.
 
+Visit [Live Site](https://adoring-bassi-7255ec.netlify.app/).
+
+
 ## How to use the App
 
 `NOTE: You have to make sure your internet connection is stable`
